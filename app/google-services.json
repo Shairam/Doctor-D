@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740013683574",
+    "firebase_url": "https://doctor-d-c6194.firebaseio.com",
+    "project_id": "doctor-d-c6194",
+    "storage_bucket": "doctor-d-c6194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740013683574:android:219415e1af2b1d47",
+        "android_client_info": {
+          "package_name": "com.example.acer.doctord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740013683574-ichhugrpjs9n2spkpce450tap5h0e7vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.doctord",
+            "certificate_hash": "625648dac172210f5fda78be3e0a1b9844ca7ec2"
+          }
+        },
+        {
+          "client_id": "740013683574-nhug2hlqmmiqrgobfb11hpuoie6nfbtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wh7JlPjRoXoiiSq__TxN_6wEMfcFigE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740013683574-nhug2hlqmmiqrgobfb11hpuoie6nfbtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
